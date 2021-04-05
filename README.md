@@ -1,3 +1,3 @@
 # Authentication Api 
 
-Built with GraphQL, TypeScript, Node, JWT
+Built with GraphQL, TypeScript, Node.js, JWT
