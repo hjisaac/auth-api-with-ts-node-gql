@@ -1,1 +1,3 @@
-# muzik-auth-service
+# Authentication Api 
+
+Built with GraphQL, TypeScript, Node, JWT
